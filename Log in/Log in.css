@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div#container{
+    border: 50px;
+    padding: 63px;
+    width: 500px;
+    height: 800px;
+    background-color: #1aebb6;
+}
+
+.container2{
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    width: 1200px;
+    height: 320px;
+    padding: 200px;
+    margin: 50px;
+    position: absolute;
+    margin-left: 4%;
+}
+
+.container3{
+    background-color: #1aebb6;
+    width: 187px;
+    height: 418px;
+    padding: 151px;
+    margin: -200px;
+    margin-left: -200px;
+}
+
+.container3 h1{
+    padding: 20px;
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-family: Arial;
+    padding-top: 10px;
+}
+
+.container3 p{
+    font-size: 20px;
+    font-weight: 20;
+    color: black;
+}
+
+.log{
+    padding-top: 60px;
+    width:110px;
+    justify-content: center;
+    padding-left: 20%;
+}
+
+.container2 p1{
+    position: absolute;
+    top: 20px; 
+    right: 20px;
+    height: 40px;
+    font-size: 20px;
+}
+
+
+
+.container4{
+    background-color: white;
+    width: 600px;
+    height: 200px;
+    padding: 150px;
+    margin: 100px;
+    margin-top: -600px;
+    margin-left: 400px;
+}
+
+.container4 h1{
+    margin-top: -70px;
+    margin-bottom: 50px;
+    margin-left: 250px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-size: 22px;
+}
+
+input {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.forgot-password {
+    display: inline-block;
+    margin-bottom: 15px;
+    color: #666;
+    text-decoration: none;
+    margin-left: 480px;
+    font-size: 17px;
+}
+
+.login-btn {
+    width: 100%;
+    padding: 15px;
+    background-color: #1aebb6;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 20px;
+}
